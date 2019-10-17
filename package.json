@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-plugin-skip-waiting",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anteriovieira/vue-cli-plugin-skip-waiting.git"
+  },
+  "homepage": "https://github.com/anteriovieira/vue-cli-plugin-skip-waiting#readme",
+  "license": "MIT"
+}
